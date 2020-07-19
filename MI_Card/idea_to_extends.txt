@@ -1,0 +1,7 @@
+this app can replace visitor card 
+user has option to upload image
+customise the title
+customise the number/color etc
+put card under a container which can take screenshot 
+and share to other apps like whatsapp
+
